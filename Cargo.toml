@@ -1,0 +1,7 @@
+[package]
+name = "nowarn"
+version = "0.1.0"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
+
+[dependencies]
+error-chain = "0.10"
